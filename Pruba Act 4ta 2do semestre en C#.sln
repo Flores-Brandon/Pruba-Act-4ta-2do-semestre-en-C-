@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pruba Act 4ta 2do semestre en C#", "Pruba Act 4ta 2do semestre en C#\Pruba Act 4ta 2do semestre en C#.csproj", "{6FC21CAE-BD2C-4A54-8387-A1B15B084610}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6FC21CAE-BD2C-4A54-8387-A1B15B084610}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FC21CAE-BD2C-4A54-8387-A1B15B084610}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FC21CAE-BD2C-4A54-8387-A1B15B084610}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FC21CAE-BD2C-4A54-8387-A1B15B084610}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {98EE3057-4B7E-48B8-A7AC-FBE43EC0C318}
+	EndGlobalSection
+EndGlobal
